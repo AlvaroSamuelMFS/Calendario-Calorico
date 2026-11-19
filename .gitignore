@@ -1,0 +1,14 @@
+# Secretos
+.env
+
+# Base de datos con usuarios
+*.db
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# PyCharm
+.idea/

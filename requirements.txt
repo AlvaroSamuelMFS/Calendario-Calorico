@@ -1,0 +1,6 @@
+customtkinter
+requests
+bcrypt
+CTkMessagebox
+Pillow
+python-dotenv
